@@ -1,0 +1,84 @@
+body{
+    
+    font-family: 'Oswald', sans-serif;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 10px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+h4{
+    font-weight: 700;
+}
+#text-design{
+    color: blue;
+    text-align: center;
+}
+#about{
+    color: teal;
+}
+.text-highlight{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, tomato, orangered);
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.quarter-width{
+    width: 25%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+}
+#work-area{
+    background-image: url("images/shapes/Group_33094_1.png");
+    background-repeat: no no-repeat;
+    height: 200px;
+    margin: 150px;
+}
+#custom-button{
+    margin-top: 75px;
+    
+}
+#nav-sec{
+    background-color:rgba(0, 0, 0, 0.756);
+    height: 120px;
+}
+.nav-width{
+    width: 25%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+}
+.nav-button{
+    text-decoration: none;
+    color: ;
+    background-image: linear-gradient(20deg, cyan , darkcyan);
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+footer{
+    font-size: small;
+    text-align: center;
+    border-top: 1px solid gray;
+}
